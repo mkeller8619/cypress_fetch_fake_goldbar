@@ -15,7 +15,7 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 1. Clone the Repository:
-```git clone <repository-url>```
+```git clone <https://github.com/mkeller8619/cypress_fetch_fake_goldbar.git>```
 
 2. Navigate to Project Directory:
 ```cd FETCH CODING EXERCISE```
